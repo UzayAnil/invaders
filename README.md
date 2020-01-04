@@ -1,5 +1,6 @@
 # Writing Space Invaders with Go
 
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/invaders)](https://repl.it/github/UzayAnil/invaders)
 The earliest memory I had of arcade video games was watching my older brother and cousins going at the video game machines at Genting Highlands. While our parents were at the other types of games Genting Highlands was more popularly known for, we were generally let loose to play arcade games to our hearts' content. 
 
 Those were the magical days of Pac-Man, Space Invaders, Galaxian, Donkey Kong, Frogger, Centipede and many, many more. Days of blinking lights, intense music, frantic tugs at the joystick, furious mashing of the buttons then the groans of dismay as the last life was lost. 
