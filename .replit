@@ -1,0 +1,2 @@
+language = "go"
+run = "go1.13 linux/amd64"
